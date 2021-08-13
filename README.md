@@ -1,3 +1,5 @@
+[![CI](https://github.com/kalwar/drupal9/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/kalwar/drupal9/actions/workflows/main.yml)
+
 # Project description
 This project includes Drupal 9, Drush 10, Composer install of Drupal Recommended Project and can be used to develop, stage or put into production any Drupal 9 project.
 

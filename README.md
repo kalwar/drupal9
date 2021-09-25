@@ -22,7 +22,7 @@ For development purposes this project can be started with:
 
 Drupal 9 will be available via [localhost:9998](http://localhost:9998/)
 
-phpMyAdmin will for development purposes be available via [localhost:9999](http://localhost:9999/)
+phpMyAdmin for development purposes will be available via [localhost:9999](http://localhost:9999/)
 
 #### Basic site configuration
 Rename your project or set your frontpage url:

@@ -1,7 +1,7 @@
 [![CI](https://github.com/kalwar/drupal9/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/kalwar/drupal9/actions/workflows/main.yml)
 
 # Project description
-This project template includes Drupal 9, Drush 10, Composer installations for Drupal recommended Project and which can be used to develop, stage or put into production any Drupal 9 project.
+This project template includes Drupal 9, Drush 10, Composer installations for Drupal recommended Project and which can be used to develop, stage or put into production Drupal 9 project.
 
 Also included are drush/config-extra and other utilities for CI/CD in terms of a Drupal project - site updates, database schema updates, database backups, push of databases via git, backup of files, replication of production environments and much more.
 
